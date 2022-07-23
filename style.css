@@ -10,7 +10,7 @@ p {color: green;}
 }
  
 h1 {
-  font-family: antarcticaexpanded_bold;
+  font-family: antarcticaexpanded_bold !important;
   
 }
 
