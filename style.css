@@ -11,8 +11,8 @@ p {color: green;}
  
 h1 {
   font-family: antarcticaexpanded_bold !important;
-  font-size: 128px;
-  text-decoration: line-through;
+  font-size: 128px !important;
+  text-decoration: line-through !important!im;
   
 }
 
