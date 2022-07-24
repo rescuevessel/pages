@@ -16,6 +16,10 @@ h1 {
   
 }
 
+h3 {
+font-size: 32px !important;
+color: gray !important;}
+
 .notion-callout__content {
 color: var(--color-bg-default);
 justify-content: center;
